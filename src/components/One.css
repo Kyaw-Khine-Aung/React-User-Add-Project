@@ -1,0 +1,34 @@
+.title {
+    color: red;
+}
+
+p {
+    color: green;
+}
+
+ul {
+    list-style: none;
+}
+
+.bgColor {
+    background-color: pink;
+}
+
+.first {
+    background-color: blue;
+}
+
+form {
+    margin-left: 10px;
+}
+
+input {
+    display: block;
+    margin-bottom: 10px;
+    padding: 10px;
+    font-size: 17px;
+    outline: none;
+    border: inherit;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
